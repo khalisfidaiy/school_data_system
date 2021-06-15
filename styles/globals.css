@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.border {
+  box-shadow: 5px 5px 8px 5px #a8a8a8;
+}
+
+.col {
+  height: 50px;
+  background-color: lightsteelblue;
+}
